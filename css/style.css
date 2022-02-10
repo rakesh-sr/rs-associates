@@ -785,6 +785,41 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #E91E63;
 }
 
+/* Our Gallery Section
+--------------------------------*/
+
+#gallery {
+  background: #E1A629;
+  padding: 10px 10px;
+  color: #ffffff9c;
+}
+
+
+#gallery .section-header h2 {
+  color: #ffffff;
+}
+
+
+.gallery-project-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 10px;
+  /* display: inline-block; */
+  text-align: left;
+  padding-left: 20px;
+  text-decoration: underline;
+}
+
+.galley-item{
+  margin-right: 5px;
+}
+
+.gallery-photo{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
 /* Our Portfolio Section
 --------------------------------*/
 #portfolio {
