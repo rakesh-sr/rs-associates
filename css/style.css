@@ -820,6 +820,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 200px;
   object-fit: cover;
 }
+
+.viewmore-css {
+  font-weight: bold;
+  position: relative;
+  padding-top: 10px;
+  /* display: inline-block; */
+  text-align: left;
+
+  padding-left: 20px;
+  color : #fff;
+  text-decoration: underline;
+}
 /* Our Portfolio Section
 --------------------------------*/
 #portfolio {
