@@ -655,9 +655,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #7d7d7d;
 }
 
-.pricing-table .col-md-5:not(:last-child) .item {
-  /*margin-bottom: 30px;*/
-}
 
 .pricing-table .item a button {
   font-weight: 600;
